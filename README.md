@@ -1,5 +1,5 @@
 <h2>Description</h2>
-Project consists of a simple text-based adventure game script that gives the user an rpg experience through text. Three buttons are used to navigate through the game which progresses the user throughout the choices they make in the game.
+Project consist of a simple palindrome checker which identifies if a word or phrase the user inputs is a palindrome or not.
 <br />
 
 
